@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey 👋, I'm David
+
+- 🌱 I’m currently learning NextJS and Typescript
+- 📫 How to reach me: davidbasto01@gmail.com
 
 <!--
 **david-fb/david-fb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
